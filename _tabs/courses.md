@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-icon: fas fa-stream
+icon: fas fa-list
 order: 3
 ---
 
