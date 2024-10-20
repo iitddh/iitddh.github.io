@@ -1,5 +1,7 @@
 ---
-layout: categories
+layout: page
+title: People
+permalink: /people/
 icon: fas fa-stream
-order: 1
+order: 2
 ---
