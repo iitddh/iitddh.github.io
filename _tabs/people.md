@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-icon: fas fa-users
+icon: fas fa-stream
 order: 2
 ---
 
