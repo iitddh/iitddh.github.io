@@ -32,10 +32,3 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organized
 [**Programming for Digital Humanities**](https://hss.iitd.ac.in/course/basics-programming-digital-humanities)
 
 [**Introduction to Digitization**](https://hss.iitd.ac.in/course/introduction-digitisation)
-
-
-# Electives for PhD Scholars
-
-[**Working with Humanities Data**](https://hss.iitd.ac.in/course/working-humanities-data)
-
-[**Authorship and Copyright**](http://hss.iitd.ac.in/course/authorship-and-copyright)
