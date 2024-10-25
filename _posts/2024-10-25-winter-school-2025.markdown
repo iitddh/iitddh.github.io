@@ -2,7 +2,7 @@
 layout: post
 title:  "Digital Humanities Winter School 2025"
 date:   2024-10-25 08:25:36 +0530
-categories: jekyll update
+categories: [winter school]
 ---
 
 
