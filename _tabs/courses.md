@@ -15,7 +15,7 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organised
 
 # Undergraduate courses
 
-[Codex to Hypertext](https://hss.iitd.ac.in/course/working-humanities-data) is a course in media archaeology that studies the emergence of digital means of communication and representation which is transforming the way human beings assimilate and engage with knowledge. A similar radical moment was the emergence of print. The course looks at the history of print, authorship, the book distribution, copyright, censorship. It will study forms of digital representation of art, intellectual property in the digital domain, creative commons, networked art. The course will pay special attention to the question – Is the book dying?
+[Codex to Hypertext](https://hss.iitd.ac.in/course/codex-hypertext) is a course in media archaeology that studies the emergence of digital means of communication and representation which is transforming the way human beings assimilate and engage with knowledge. A similar radical moment was the emergence of print. The course looks at the history of print, authorship, the book distribution, copyright, censorship. It will study forms of digital representation of art, intellectual property in the digital domain, creative commons, networked art. The course will pay special attention to the question – Is the book dying?
 
 **Electronic Literature** is a course that introduces students to the intersections between computers and story telling. It looks at the emergence of computers and the early attempts at combinatory narratives. Thereafter, it looks at hypertext fiction, interactive narratives, video games and issues of copyright and preservation of electronic fiction.
 
