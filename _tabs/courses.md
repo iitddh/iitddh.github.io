@@ -21,7 +21,7 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organised
 
 # Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/macst)
 
-[Foundations in the Digital Humanities](https://hss.iitd.ac.in/course/foundations-digital-humanities)
+[Foundations in the Digital Humanities](https://hss.iitd.ac.in/course/foundations-digital-humanities) is designed to help students of the humanities make their first forays into understanding the role of digital tools for analysing and preserving cultural artifacts and experiences. In this course students will get an overview of various digital tools, methods and digital humanities projects. They will formulate a theoretical understanding of the implication of working with digital tools in the humanities.
 
 [Basics of Programming for Digital Humanities](https://hss.iitd.ac.in/course/basics-programming-digital-humanities) is a course aims to enable students learn the basics of programming that will enable them to work with text as data, grasp the basics of acquiring, manipulating, and analyzing data relevant for humanities inquiry. 
 
