@@ -11,15 +11,15 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organised
 
 # Online Course
 
-[Text, Textuality and Digital Media](https://hss.iitd.ac.in/course/working-humanities-data) is a MOOC offered on the Swayam/ NPTEL platform. This course studies the evolution of language, narratives and representation through the history of technologies of communication – oral, written, print and the digital. It explores the concepts of copyright, censorship, authorship, nation formation to understand the interaction between technological transformation and changes in human society and consciousness. The objective of this course is to reflect on the possibilities of the digital age. The courses engages with the debates surrounding  blogging, social media, video games, wikipedia and other forms of electronic texts.
+[Text, Textuality and Digital Media](https://swayam.gov.in/nd1_noc19_hs54/preview) is a MOOC offered on the Swayam/ NPTEL platform. This course studies the evolution of language, narratives and representation through the history of technologies of communication – oral, written, print and the digital. It explores the concepts of copyright, censorship, authorship, nation formation to understand the interaction between technological transformation and changes in human society and consciousness. The objective of this course is to reflect on the possibilities of the digital age. The courses engages with the debates surrounding  blogging, social media, video games, wikipedia and other forms of electronic texts.
 
 # Undergraduate courses
 
-[Codex to Hypertext](https://hss.iitd.ac.in/course/working-humanities-data) is a course in media archaeology that studies the emergence of digital means of communication and representation which is transforming the way human beings assimilate and engage with knowledge. A similar radical moment was the emergence of print. The course looks at the history of print, authorship, the book distribution, copyright, censorship. It will study forms of digital representation of art, intellectual property in the digital domain, creative commons, networked art. The course will pay special attention to the question – Is the book dying?
+[Codex to Hypertext](http://hss.iitd.ac.in/course/codex-hypertext) is a course in media archaeology that studies the emergence of digital means of communication and representation which is transforming the way human beings assimilate and engage with knowledge. A similar radical moment was the emergence of print. The course looks at the history of print, authorship, the book distribution, copyright, censorship. It will study forms of digital representation of art, intellectual property in the digital domain, creative commons, networked art. The course will pay special attention to the question – Is the book dying?
 
 **Electronic Literature** is a course that introduces students to the intersections between computers and story telling. It looks at the emergence of computers and the early attempts at combinatory narratives. Thereafter, it looks at hypertext fiction, interactive narratives, video games and issues of copyright and preservation of electronic fiction.
 
-# Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/course/working-humanities-data)
+# Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/macst)
 
 [Programming for Digital Humanities](https://hss.iitd.ac.in/course/working-humanities-data) is a course aims to enable students learn the basics of programming that will enable them to work with text as data, grasp the basics of acquiring, manipulating, and analyzing data relevant for humanities inquiry. 
 
