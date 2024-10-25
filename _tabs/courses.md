@@ -21,13 +21,15 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organised
 
 # Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/macst)
 
-[Programming for Digital Humanities](https://hss.iitd.ac.in/course/working-humanities-data) is a course aims to enable students learn the basics of programming that will enable them to work with text as data, grasp the basics of acquiring, manipulating, and analyzing data relevant for humanities inquiry. 
+[Foundations in the Digital Humanities](https://hss.iitd.ac.in/course/foundations-digital-humanities)
 
-[Introduction to Digitization](https://hss.iitd.ac.in/course/working-humanities-data) is for training students to identify and handle equipment required for digitisation projects, follow standard protocol for handling of sensitive material, prepare metadata, and have an awareness of the complete digitisation life cycle. 
+[Basics of Programming for Digital Humanities](https://hss.iitd.ac.in/course/basics-programming-digital-humanities) is a course aims to enable students learn the basics of programming that will enable them to work with text as data, grasp the basics of acquiring, manipulating, and analyzing data relevant for humanities inquiry. 
+
+[Introduction to Digitisation](https://hss.iitd.ac.in/course/introduction-digitisation) is for training students to identify and handle equipment required for digitisation projects, follow standard protocol for handling of sensitive material, prepare metadata, and have an awareness of the complete digitisation life cycle. 
 
 
 # Electives for PhD Scholars
 
 [Working with Humanities Data](https://hss.iitd.ac.in/course/working-humanities-data) is a course that introduces humanities and social science research scholars to specialized methods of acquiring, analyzing and visualizing humanities data. It helps them conceptualize data oriented thinking as a viable research method as well as adopt an informed, critical approach to an increasingly digitalized world. 
 
-[Authorship and Copyright](https://hss.iitd.ac.in/course/working-humanities-data) helps students understand the emergence of the concept of the author and its linkages to the coming of print. Students should also be able to make a link between the concept of the author genius and the emergence of copyright laws.
+[Authorship and Copyright](https://hss.iitd.ac.in/course/authorship-and-copyright) helps students understand the emergence of the concept of the author and its linkages to the coming of print. Students should also be able to make a link between the concept of the author genius and the emergence of copyright laws.
