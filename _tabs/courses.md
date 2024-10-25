@@ -19,7 +19,7 @@ The Digital Humanities thinking and pedagogy at IIT Delhi is currently organised
 
 **Electronic Literature** is a course that introduces students to the intersections between computers and story telling. It looks at the emergence of computers and the early attempts at combinatory narratives. Thereafter, it looks at hypertext fiction, interactive narratives, video games and issues of copyright and preservation of electronic fiction.
 
-# Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/macst)
+# Courses for MA in [Culture Society Thought](https://hss.iitd.ac.in/course/working-humanities-data)
 
 [Programming for Digital Humanities](https://hss.iitd.ac.in/course/working-humanities-data) is a course aims to enable students learn the basics of programming that will enable them to work with text as data, grasp the basics of acquiring, manipulating, and analyzing data relevant for humanities inquiry. 
 
