@@ -34,6 +34,24 @@ Jajwalya Karajikar: Applied Data Science Librarian at University of Pennsylvania
 Vinayak Dasgupta: Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
 Rohan Chauhan: Senior research scholar at the Department of Modern Indian Languages and Literary Studies.
 
+## Faculty for the Winter School
+
+Geoffrey Rockwell: Professor of Philosophy and the Digital Humanities at the University of Alberta, Canada and one of the leading thinkers and makers in the Digital Humanities. Along with Stéfan Sinclair, Geoffrey Rockwell is best known for the award winning text analysis platform Voyant and co-authored Hermeneutica: Computer-Assisted Interpretation in the Humanities.
+
+Arjun Ghosh: Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+
+Shanmugapriya T, Assistant Professor (Digital Humanities) at the Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines) Dhanbad.
+
+Sanil V. : Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+
+Naveen Thayyil: Associate Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+
+Jajwalya Karajikar: Applied Data Science Librarian at University of Pennsylvania.
+
+Vinayak Dasgupta: Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
+
+Rohan Chauhan: Senior research scholar at the Department of Modern Indian Languages and Literary Studies.
+
 
 ## Why IIT Delhi
 
