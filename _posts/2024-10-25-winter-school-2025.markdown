@@ -15,7 +15,7 @@ The Winter School in Digital Humanities 2025 will concentrate on training partic
 
 ### Text Analysis with Voyant tools
 
-[Voyant Tools](https://voyant-tools.org) is a suite of text analysis and visualization tools that work within the browser. Participants can upload a text or provide a URL and Voyant will index the text and allow the user to try different analysis tools from the playful to text mining. Voyant now has a notebook programming extension, [Spyral](https://voyant-tools.org/spyral) which allows users to document and share their experiments. Tutorial materials for Voyant can be found at: [dialogi.ca](http://dialogi.ca) . The workshops at the Winter School will train participants to use Voyant effectively and introduce them to Spyral so they can document their projects. To be conducted by Geoffrey Rockwell.
+Voyant Tools is a suite of text analysis and visualization tools that work within the browser. Participants can upload a text or provide a URL and Voyant will index the text and allow the user to try different analysis tools from the playful to text mining. Voyant now has a notebook programming extension, Spyral which allows users to document and share their experiments. Tutorial materials for Voyant can be found at: dialogi.ca . The workshops at the Winter School will train participants to use Voyant effectively and introduce them to Spyral so they can document their projects. To be conducted by Geoffrey Rockwell.
 
 
 ### Bootcamp on Python for the Humanities
@@ -73,7 +73,7 @@ Arjun Ghosh
  Department of Humanities and Social Sciences
  Indian Institute of Technology Delhi
  Hauz Khas, New Delhi, 110016
- Email: arjunghosh[at]hss[dot]iitd[dot]ac[dot]in
+ Email: 
 
 
 ## How to apply?
