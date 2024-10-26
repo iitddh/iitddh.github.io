@@ -5,5 +5,13 @@ date:   2024-10-25 08:25:36 +0530
 categories: [winter school]
 ---
 
-
-# header
+# Call for Applications
+## Agenda for the Winter School
+### Text Analysis with Voyant tools
+### Bootcamp on Python for the Humanities
+### Text Mining and Low Tech
+## Why IIT Delhi
+## Who can apply?
+## Technology requirements
+## Participation fees
+## How to apply?
