@@ -6,8 +6,16 @@ categories: [winter school]
 ---
 
 # Call for Applications
+
+The Department of Humanities and Social Sciences at the Indian Institute of Technology Delhi will be organising a Winter School in Digital Humanities to be held from 17 to 22 February 2025 in the IIT Delhi campus. The Winter School will focus on digital tools for computational analysis of texts and is aimed at providing participants a headstart in digital tools and methods. It will help participants to conceptualise their research problems in the light of digital tools and methods and give them the knowhow of performing end to end processes – data acquisition, text mining, data cleaning, data wrangling, data analysis and visualisation. Other than hands-on sessions, the Winter School will also include lectures that would present multiple theoretical perspectives on the role of computational methods in humanities research.
+
 ## Agenda for the Winter School
+
+The Winter School in Digital Humanities 2025 will concentrate on training participants around key tools in computational methods with a particular focus on the analysis of texts through text mining and analysis, sentiment analysis, topic modelling, data visualisation, and how they can be applied to cultural artefacts, literature, languages, and historical analysis. The curriculum is structured to offer foundational training in a multilingual and multicultural context. The programme for the Winter School shall include:
+
 ### Text Analysis with Voyant tools
+
+
 ### Bootcamp on Python for the Humanities
 ### Text Mining and Low Tech
 ## Why IIT Delhi
