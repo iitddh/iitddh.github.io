@@ -44,15 +44,15 @@ Throughout the Winter School the participants would have the opportunity to gain
 
 [Shanmugapriya T](https://shanmugapriya.com/), Assistant Professor (Digital Humanities) at the Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines) Dhanbad.
 
-Sanil V. : Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+[Sanil V.](https://www.chrflagship.uwc.ac.za/fellowship-programme/fellows/sanil-v/) : Professor at the Department of Humanities and Social Sciences at IIT Delhi.
 
-Naveen Thayyil: Associate Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+[Naveen Thayyil](https://hss.iitd.ac.in/faculty/naveen-thayyil): Associate Professor at the Department of Humanities and Social Sciences at IIT Delhi.
 
-Jajwalya Karajikar: Applied Data Science Librarian at University of Pennsylvania.
+[Jajwalya Karajikar](https://www.library.upenn.edu/staff/jajwalya-karajgikar): Applied Data Science Librarian at University of Pennsylvania.
 
-Vinayak Dasgupta: Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
+[Vinayak Dasgupta](https://snu.edu.in/faculty/vinayak-das-gupta/): Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
 
-Rohan Chauhan: Senior research scholar at the Department of Modern Indian Languages and Literary Studies.
+[Rohan Chauhan](https://digitalorientalist.com/about-rohan-chauhan/): Senior research scholar at the Department of Modern Indian Languages and Literary Studies.
 
 
 ## Why IIT Delhi
@@ -61,7 +61,7 @@ IIT Delhi, a renowned leading institute in technological advancement, is uniquel
 
 ## Who can apply?
 
-The Winter School in Digital Humanities is designed for scholars in the humanities who have little or no exposure to technology to learn the basics of computational tools in humanities research. It is open for humanities scholarsand social science at various levels – masters students, research scholars and early career scholars. Applicants should have at least a Bachelor’s degree in a humanities discipline (such as literature, philosophy, history, languages, culture studies).
+The Winter School in Digital Humanities is designed for scholars in the humanities who have little or no exposure to technology to learn the basics of computational tools in humanities research. It is open for humanities scholars at various levels – masters students, research scholars and early career scholars. Applicants should have at least a Bachelor’s degree in a humanities discipline (such as literature, philosophy, history, languages, culture studies).
 The workshop is open for those who don’t have any background in coding/ programming. If you are someone who has any experience in working with programming languages like R, Python, Java script etc. this workshop is not for you.
 
 ## Technology requirements
