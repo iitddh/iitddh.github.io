@@ -15,32 +15,33 @@ The Winter School in Digital Humanities 2025 will concentrate on training partic
 
 ### Text Analysis with Voyant tools
 
-[Voyant Tools](https://voyant-tools.org/) is a suite of text analysis and visualization tools that work within the browser. Participants can upload a text or provide a URL and Voyant will index the text and allow the user to try different analysis tools from the playful to text mining. Voyant now has a notebook programming extension, [Spyral](https://voyant-tools.org/spyral) which allows users to document and share their experiments. Tutorial materials for Voyant can be found at: [dialogi.ca](https://voyanttools.github.io/dialogica/) . The workshops at the Winter School will train participants to use Voyant effectively and introduce them to Spyral so they can document their projects. To be conducted by Geoffrey Rockwell.
+[Voyant Tools](https://voyant-tools.org/) is a suite of text analysis and visualization tools that work within the browser. Participants can upload a text or provide a URL and Voyant will index the text and allow the user to try different analysis tools from the playful to text mining. Voyant now has a notebook programming extension, [Spyral](https://voyant-tools.org/spyral) which allows users to document and share their experiments. Tutorial materials for Voyant can be found at: [dialogi.ca](https://voyanttools.github.io/dialogica/) . The workshops at the Winter School will train participants to use Voyant effectively and introduce them to Spyral so they can document their projects. 
+
+To be conducted by [Geoffrey Rockwell](https://geoffreyrockwell.com/personal.html).
 
 
 ### Bootcamp on Python for the Humanities
 
 A series of workshops to introduce participants to the basics of programming using the Python programming language. Participants would learn the concepts and use of variables, data structures, conditional statements, loops, functions, regular expressions and visualisation. The objective of the bootcamp would be to get participants on a self-learning curve whereon they can learn more computational tools and techniques from online and published sources. The initial sessions of the Python bootcamp would commence through online sessions from the first week of February 2025 and would culminate in in-person hands-on sessions during the week of the Winter School.
 
+To be conducted by [Arjun Ghosh](https://web.iitd.ac.in/~arjunghosh/).
+
 ### Text Mining and Low Tech
 
 This workshop introduces participants to fundamental concepts of Natural Language Processing (NLP) through hands-on paper-and-pencil activities. This workshop teaches the underlying ideas behind advanced techniques like topic modelling. Participants engage in interactive exercises where they manually sort, categorize, and cluster text data, simulating processes such as latent Dirichlet allocation (LDA). By simplifying NLP models into clear, manageable steps, the workshop fosters a deeper understanding of text mining principles, making them accessible to non-technical participants. It's particularly beneficial for humanities scholars seeking to explore digital methods and grasp the concepts behind NLP models.
 
+To be conducted by [Shanmugapriya T](https://shanmugapriya.com/).
+
 ### Perspectives on Data Analysis in textual research
 Throughout the Winter School the participants would have the opportunity to gain critical insights from a range of scholars on the possibilities and pitfalls of working with data in humanities research.
-Sanil V. : Professor at the Department of Humanities and Social Sciences at IIT Delhi.
-Naveen Thayyil: Associate Professor at the Department of Humanities and Social Sciences at IIT Delhi.
-Jajwalya Karajikar: Applied Data Science Librarian at University of Pennsylvania.
-Vinayak Dasgupta: Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
-Rohan Chauhan: Senior research scholar at the Department of Modern Indian Languages and Literary Studies.
 
 ## Faculty for the Winter School
 
-Geoffrey Rockwell: Professor of Philosophy and the Digital Humanities at the University of Alberta, Canada and one of the leading thinkers and makers in the Digital Humanities. Along with Stéfan Sinclair, Geoffrey Rockwell is best known for the award winning text analysis platform Voyant and co-authored Hermeneutica: Computer-Assisted Interpretation in the Humanities.
+[Geoffrey Rockwell](https://geoffreyrockwell.com/personal.html): Professor of Philosophy and the Digital Humanities at the University of Alberta, Canada and one of the leading thinkers and makers in the Digital Humanities. Along with Stéfan Sinclair, Geoffrey Rockwell is best known for the award winning text analysis platform Voyant and co-authored Hermeneutica: Computer-Assisted Interpretation in the Humanities.
 
-Arjun Ghosh: Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+[Arjun Ghosh](https://web.iitd.ac.in/~arjunghosh/): Professor at the Department of Humanities and Social Sciences at IIT Delhi.
 
-Shanmugapriya T, Assistant Professor (Digital Humanities) at the Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines) Dhanbad.
+[Shanmugapriya T](https://shanmugapriya.com/), Assistant Professor (Digital Humanities) at the Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines) Dhanbad.
 
 Sanil V. : Professor at the Department of Humanities and Social Sciences at IIT Delhi.
 
