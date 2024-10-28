@@ -100,7 +100,7 @@ A limited number of bursaries may be available. Please indicate the same in your
 
 Participants who attend all lectures will be issued a Certificate of Completion.
 
-Contact:
+## Contact
 
 > Arjun Ghosh<br>Professor<br>Department of Humanities and Social Sciences<br>Indian Institute of Technology Delhi<br>Email: iitdelhidh@gmail.com
 {: .prompt-tip }
@@ -126,3 +126,4 @@ The applicants will experiment with these two texts using the tools that they le
 Last date for applications is 10 December 2024.
 
 [Download the Winter School Poster](https://dh.iitd.ac.in/files/WinterSchoolPoster.pdf)
+
