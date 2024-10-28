@@ -124,3 +124,5 @@ The applicants will experiment with these two texts using the tools that they le
 * In the event that a UTF-8 file is not available, applicants can also bring a hard copy or a copy scanned at sufficient resolution and clarity to use the state-of-the-art Indian language OCR facility at IIT Delhi to produce plain text files. OCR facility is currently available for Hindi, Kannada, Gujarati, Bengali, Marathi, Nepali. Applicants would also be required to write short notes about why they find their chosen texts to be interesting.
 
 Last date for applications is 10 December 2024.
+
+[Download the Winter School Poster](https://dh.iitd.ac.in/files/WinterSchoolPoster.pdf)
