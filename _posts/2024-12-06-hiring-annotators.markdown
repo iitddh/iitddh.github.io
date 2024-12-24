@@ -16,6 +16,6 @@ This initiative is crucial for fostering linguistic heritage and driving technol
 
 [Read instructions and apply now](https://docs.google.com/forms/d/e/1FAIpQLSeTIGBLSzkhrOL0W00VQ-FdMzfYHoUSXeZtIRixPreGQkEmzg/viewform) 
 
-Last date for applications is 15 December 2024.
+
 
 
