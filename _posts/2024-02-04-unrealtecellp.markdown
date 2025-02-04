@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Multimodal Multilingual Data in Humanities and Social Sciences"
-date:   2025-02-04 11:00:00 +0530
+title:  "DH Winter School Workshop"
+date:   2025-02-04 12:00:00 +0530
 categories: [winter school]
-tags: [winter school][public talks]
+tags: [winter school]
 ---
 
 The Workshop on **Automating Multimodal, Multilingual Data Processing and Management in Humanities and Social Sciences using MATra-Lab** will introduce participants to MATra-Lab, a web-based platform designed for efficient language data management, transcription, translation, and annotation, with a specific focus on Indian languages. Developed by [UnReaL-TecE LLP](https://www.unreal-tece.co.in/), MATra-Lab addresses the challenges of working with complex, multilingual, and multimodal datasets, making it an indispensable tool for researchers in literature (especially those working on oral and folk literatures), digital humanities, linguistics, social sciences, and related fields.
