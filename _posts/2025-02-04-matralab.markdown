@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Online Workshop"
+title:  "Online Workshop on Multilingual Humanities Data"
 date:   2025-02-04 11:00:00 +0530
-categories: [ocr]
-tags: [ocr]
+categories: [workshop]
+tags: [workshop]
 ---
 
 Matralab workshop
+
+* 11 Feb 2025
+* 3PM
+* Online
 
 
 
