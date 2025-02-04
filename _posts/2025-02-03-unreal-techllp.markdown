@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Automating Multimodal, Multilingual Data Processing and Management in Humanities and Social Sciences"
+title:  "Multimodal, Multilingual Data in Humanities and Social Sciences"
 date:   2025-02-03 11:00:00 +0530
 categories: [winter school]
 tags: [winter school][public talks]
 ---
 
-The Workshop on *Automating Multimodal, Multilingual Data Processing and Management in Humanities and Social Sciences using MATra-Lab* will introduce participants to MATra-Lab, a web-based platform designed for efficient language data management, transcription, translation, and annotation, with a specific focus on Indian languages. Developed by [UnReaL-TecE LLP](https://www.unreal-tece.co.in/), MATra-Lab addresses the challenges of working with complex, multilingual, and multimodal datasets, making it an indispensable tool for researchers in literature (especially those working on oral and folk literatures), digital humanities, linguistics, social sciences, and related fields.
+The Workshop on **Automating Multimodal, Multilingual Data Processing and Management in Humanities and Social Sciences using MATra-Lab** will introduce participants to MATra-Lab, a web-based platform designed for efficient language data management, transcription, translation, and annotation, with a specific focus on Indian languages. Developed by [UnReaL-TecE LLP](https://www.unreal-tece.co.in/), MATra-Lab addresses the challenges of working with complex, multilingual, and multimodal datasets, making it an indispensable tool for researchers in literature (especially those working on oral and folk literatures), digital humanities, linguistics, social sciences, and related fields.
 
 Key features of MATra-Lab include:
 * Advanced Data Management: MATra-Lab is primarily a data management software that allows you to store, access and process text, audio and image data in a centralised repository. It supports advanced search and filter of relevant data points using the content as well as associated metadata.
