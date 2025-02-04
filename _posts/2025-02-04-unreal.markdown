@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Online workshop on Multilingual Data for Humanities and Social Sciences"
+date:   2025-02-04 13:00:00 +0530
+categories: [winter school]
+tags: [winter school]
+---
+
+The Workshop on **Automating Multimodal, Multilingual Data Processing and Management in Humanities and Social Sciences using MATra-Lab** will introduce participants to MATra-Lab, a web-based platform designed for efficient language data management, transcription, translation, and annotation, with a specific focus on Indian languages. Developed by [UnReaL-TecE LLP](https://www.unreal-tece.co.in/), MATra-Lab addresses the challenges of working with complex, multilingual, and multimodal datasets, making it an indispensable tool for researchers in literature (especially those working on oral and folk literatures), digital humanities, linguistics, social sciences, and related fields.
+
+Key features of MATra-Lab include:
+* Advanced Data Management: MATra-Lab is primarily a data management software that allows you to store, access and process text, audio and image data in a centralised repository. It supports advanced search and filter of relevant data points using the content as well as associated metadata.
+* Multilingual Transcription and Annotation: Supports Automatic Speech Recognition (ASR) for 22 Scheduled Indian languages and some other non-scheduled languages, enabling seamless transcription of interviews, oral histories, and field recordings, thereby, significantly accelerating the data pre-processing and reducing the time and effort needed for preparing the data for analysis.
+* Translation Across Languages: Facilitates translation between Indian languages and English, bridging gaps in accessibility and cultural research.
+* OCR for Diverse Scripts: Extracts text from manuscripts and scanned documents in Indian scripts for efficient digitisation and archiving.
+* Custom Tagging and Annotation: Allows user-defined tagging of audio, text, and image data, enhancing metadata creation.
+* Collaboration and Export: Enables seamless, synchronous collaboration with team members through advanced sharing and access control. It also exports structured data in interoperable formats for integration into repositories and external data analysis apps.
+* Data Analysis and Visualisation: Provides different kinds of statistical and AI-based analysis and metrics including n-grams, concordances, topic modelling, grammatical features (such as POS and morphosyntactic analysis), etc.
+
+This session will feature an interactive demonstration of MATra-Lab’s capabilities. Participants will observe live processing of real-world datasets, showcasing transcription, annotation, and translation workflows. Through step-by-step guidance, attendees will learn how to organise, digitise, process and analyse data using the platform. Collaborative tools and export functionalities will also be demonstrated to highlight how MATra-Lab facilitates teamwork and supports long-term archiving.
+
+The session is accessible to researchers of all levels, requiring no prior technical expertise. By the end of the workshop, participants will gain practical insights into leveraging MATra-Lab for their projects, transforming their approach to data management and analysis in the digital humanities and beyond.
+
+* Date: 11 February 2025
+* Time: 3PM
+* [This is an Online lecture. To participate please register here](https://docs.google.com/forms/d/e/1FAIpQLScnw6Vc3cTBuFcs8rNQdD-1UcgyXEo-7OJRdrsEWBe5IB5kgQ/viewform?usp=dialog)
