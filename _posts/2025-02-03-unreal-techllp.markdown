@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multimodal, Multilingual Data in Humanities and Social Sciences"
+title:  "Multimodal Multilingual Data in Humanities and Social Sciences"
 date:   2025-02-03 11:00:00 +0530
 categories: [winter school]
 tags: [winter school][public talks]
