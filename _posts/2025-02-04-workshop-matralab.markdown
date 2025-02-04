@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online Workshop on Multilingual Data"
-date:   2025-02-04 14:00:00 +0530
+date:   2025-02-04 13:00:00 +0530
 categories: [winter school]
 tags: [winter school]
 ---
