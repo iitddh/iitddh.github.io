@@ -20,12 +20,16 @@ The in-person sessions of the DH Winter School were held at the IIT Delhi campus
 # Perspectives on Computational Analysis
 In the other sessions, [Jajwalya Karajgikar](https://www.library.upenn.edu/staff/jajwalya-karajgikar) emphasized the central role of libraries in enabling data science research and pedagogy. [Sanil V.](https://www.chrflagship.uwc.ac.za/fellowship-programme/fellows/sanil-v/) and [Naveen Thayyil](https://hss.iitd.ac.in/faculty/naveen-thayyil) spoke on the politics of digital art and data aggregation. [Vinayak Dasgupta](https://snu.edu.in/faculty/vinayak-das-gupta/) conducted two hands-on workshops on data cleaning using OpenRefine. [Rohan Chauhan](https://digitalorientalist.com/about-rohan-chauhan/) spoke of the challenges in developing OCR technologies for Indian language scripts.
 
+![The DH Winter School participants](/assets/images/dhws-group.jpg)
+
 During the week, Geoffrey Rockwell delivered an Institute Lecture on the opportunities and limitations of the Responsible Artificial Intelligence approach to AI ethics. On the final day, the Winter School participants had the opportunity to present their project ideas and receive feedback from the Winter School faculty and co-participants.
 
 The event ended with a Round Table discussion on "Digital Humanities@India: Opportunity and Challenges in the Time of AI, " led by Santanu Chaudhury.
 
 # Celebrating World Mother Language Day
 The week of the DH Winter School saw the observance of World Mother Language Day on 21 February. The Winter School emphasized the need to develop computational text analysis methods for the Indian languages. The participants had chosen Indian language texts for their analysis. Many of these texts existed in hardcopy or image PDF formats. These were scanned, and then machine-readable text was obtained using 'Lipikar' - the state-of-the-art OCR engine for the Indian languages. The participants uploaded the text thus obtained onto Voyant tools for analysis.
+
+![Participants prepared a banner in Indian languages](/assets/images/dhws-banner.jpg)
 
 # Participant Feedback
 The impact of the DH Winter School is best captured through the voices of its participants:
