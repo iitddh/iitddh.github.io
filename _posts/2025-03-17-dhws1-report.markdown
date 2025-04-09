@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DHWS1 report"
+title:  "Rewiring the Humanities: Notes from the DH Winter School 2025"
 date:   2025-03-17 11:00:00 +0530
 categories: [workshop]
 tags: [workshop]
@@ -15,10 +15,10 @@ This edition of the DH Winter School focused on computational analysis of texts.
 The in-person phase of the DH Winter School was preceded by an online Python Bootcamp conducted by [Arjun Ghosh](https://web.iitd.ac.in/~arjunghosh/). During the online bootcamp participants were introduced to variables, expressions, string operations, conditional execution, functions, loops, and data structures like lists, dictionaries, and tuples. These sessions ensured that participants received ample time and opportunity to understand concepts and clarify doubts. The online Python Bootcamp was followed-up by daily tutorials during the in-person Winter School week and two additional sessions on file handling and data acquisition using web APIs. Since the participants had already internalized certain programming concepts, it helped them appreciate the computational tools they learned during the in-person Winter School.
 
 # Focus on Computational Analysis of Text
-The in-person sessions of the DH Winter School were held at the IIT Delhi campus in south New Delhi between 17-22 February 2025. The focus on Text Analysis was led by Geoffrey Rockwell and Shanmugapriya T. Together they conducted eleven sessions spread across six days to introduce participants to text and data mining concepts. Shanmugapriya used an innovative paper and pen method to help participants understand concepts like topic modeling and visualization. Geoffrey Rockwell took the participants through the suite of Voyant Tools, including word frequency analysis, keyword in context, collocation, principal component analysis, and correspondence analysis.
+The in-person sessions of the DH Winter School were held at the IIT Delhi campus in south New Delhi between 17-22 February 2025. The focus on Text Analysis was led by [Geoffrey Rockwell](https://geoffreyrockwell.com/personal.html) and [Shanmugapriya T](https://shanmugapriya.com/). Together they conducted eleven sessions spread across six days to introduce participants to text and data mining concepts. Shanmugapriya used an innovative paper and pen method to help participants understand concepts like topic modeling and visualization. Geoffrey Rockwell took the participants through the suite of Voyant Tools, including word frequency analysis, keyword in context, collocation, principal component analysis, and correspondence analysis.
 
 # Perspectives on Computational Analysis
-In the other sessions, Jajwalya Karajgikar emphasized the central role of libraries in enabling data science research and pedagogy. Vinayak Dasgupta conducted two hands-on workshops on data cleaning using OpenRefine. Rohan Chauhan spoke of the challenges in developing OCR technologies for Indian language scripts. Sanil V. and Naveen Thayyil spoke on the politics of digital art and data aggregation.
+In the other sessions, [Jajwalya Karajgikar](https://www.library.upenn.edu/staff/jajwalya-karajgikar) emphasized the central role of libraries in enabling data science research and pedagogy. [Sanil V.](https://www.chrflagship.uwc.ac.za/fellowship-programme/fellows/sanil-v/) and [Naveen Thayyil](https://hss.iitd.ac.in/faculty/naveen-thayyil) spoke on the politics of digital art and data aggregation. [Vinayak Dasgupta](https://snu.edu.in/faculty/vinayak-das-gupta/) conducted two hands-on workshops on data cleaning using OpenRefine. [Rohan Chauhan](https://digitalorientalist.com/about-rohan-chauhan/) spoke of the challenges in developing OCR technologies for Indian language scripts.
 
 During the week, Geoffrey Rockwell delivered an Institute Lecture on the opportunities and limitations of the Responsible Artificial Intelligence approach to AI ethics. On the final day, the Winter School participants had the opportunity to present their project ideas and receive feedback from the Winter School faculty and co-participants.
 
