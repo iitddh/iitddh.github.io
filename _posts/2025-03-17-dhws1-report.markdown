@@ -17,7 +17,7 @@ The in-person phase of the DH Winter School was preceded by an online Python Boo
 # Focus on Computational Analysis of Text
 The in-person sessions of the DH Winter School were held at the IIT Delhi campus in south New Delhi between 17-22 February 2025. The focus on Text Analysis was led by [Geoffrey Rockwell](https://geoffreyrockwell.com/personal.html) and [Shanmugapriya T](https://shanmugapriya.com/). Together they conducted eleven sessions spread across six days to introduce participants to text and data mining concepts. Shanmugapriya used an innovative paper and pen method to help participants understand concepts like topic modeling and visualization. Geoffrey Rockwell took the participants through the suite of Voyant Tools, including word frequency analysis, keyword in context, collocation, principal component analysis, and correspondence analysis.
 
-![Alt text](https://iitddh.github.io/assets/images/dhws-group.jpg "a title")
+![Participants at the DH Winter School](https://iitddh.github.io/assets/images/dhws-group.jpg "Participants at the DH Winter School")
 
 # Perspectives on Computational Analysis
 In the other sessions, [Jajwalya Karajgikar](https://www.library.upenn.edu/staff/jajwalya-karajgikar) emphasized the central role of libraries in enabling data science research and pedagogy. [Sanil V.](https://www.chrflagship.uwc.ac.za/fellowship-programme/fellows/sanil-v/) and [Naveen Thayyil](https://hss.iitd.ac.in/faculty/naveen-thayyil) spoke on the politics of digital art and data aggregation. [Vinayak Dasgupta](https://snu.edu.in/faculty/vinayak-das-gupta/) conducted two hands-on workshops on data cleaning using OpenRefine. [Rohan Chauhan](https://digitalorientalist.com/about-rohan-chauhan/) spoke of the challenges in developing OCR technologies for Indian language scripts.
@@ -28,6 +28,8 @@ The event ended with a Round Table discussion on "Digital Humanities@India: Oppo
 
 # Celebrating World Mother Language Day
 The week of the DH Winter School saw the observance of World Mother Language Day on 21 February. The Winter School emphasized the need to develop computational text analysis methods for the Indian languages. The participants had chosen Indian language texts for their analysis. Many of these texts existed in hardcopy or image PDF formats. These were scanned, and then machine-readable text was obtained using 'Lipikar' - the state-of-the-art OCR engine for the Indian languages. The participants uploaded the text thus obtained onto Voyant tools for analysis.
+
+![Celebrating World Mother Language Day](https://iitddh.github.io/assets/images/dhws-banner.jpg "Celebrating World Mother Language Day")
 
 # Participant Feedback
 The impact of the DH Winter School is best captured through the voices of its participants:
