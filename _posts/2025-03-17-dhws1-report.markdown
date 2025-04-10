@@ -2,8 +2,8 @@
 layout: post
 title:  "Rewiring the Humanities: Notes from the DH Winter School 2025"
 date:   2025-03-17 11:00:00 +0530
-categories: [workshop]
-tags: [workshop]
+categories: [winter school]
+tags: [winter school]
 ---
 
 The Digital Humanities Winter School, a unique initiative by the Department of Humanities and Social Sciences, Indian Institute of Technology Delhi (IIT Delhi), was held in February 2025. Its primary goal was to bridge the gap for scholars and students from the humanities, social sciences, and other non-STEM disciplines in India, providing them with a hands-on introduction to computational tools and digital scholarship methods. This introduction aimed to foster algorithmic thinking, conceptualize data-centric research projects, encourage collaborative ventures, and instill critical approaches toward algorithms. The DH Winter School, with its promise of a low learning curve, was designed to boost the confidence of participants who came with little or no exposure to digital applications or programming. By addressing the limited opportunities for students of the humanities and social sciences in India to learn these methods, the DH Winter School aimed to impact the academic landscape significantly.
