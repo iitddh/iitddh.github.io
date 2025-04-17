@@ -31,6 +31,9 @@ The week of the DH Winter School saw the observance of World Mother Language Day
 
 ![Celebrating World Mother Language Day](https://iitddh.github.io/assets/images/dhws-banner.jpg "Celebrating World Mother Language Day")
 
+# Future Editions
+The considerable interest around the DH Winter School speaks of the eagerness of humanities and social sciences scholars to learn new methods and approaches to research in their fields. This is more pertinent as the world around us sees digital transformation at a frantic pace. Hence, we can look forward to more editions of the DH Winter School. Future editions may focus on other DH methods like spatial analysis, text encoding, audio-visual analysis, etc.
+
 # Participant Feedback
 The impact of the DH Winter School is best captured through the voices of its participants:
 
