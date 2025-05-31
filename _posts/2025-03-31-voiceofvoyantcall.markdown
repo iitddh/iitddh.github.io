@@ -21,11 +21,17 @@ Here is an opportunity to volunteer to donate your language knowledge towards de
  If you're an undergrad or above, fluent in one of the listed languages, and know your way around Google Sheets, we want to hear from you!
 
 Deadline to Apply: June 10, 2025
+
 Work is fully remote | 
+
 All volunteers will be invited to an orientation to Voyant Tools
+
 Certificates will be awarded by the [Voyant Consortium](https://voyant-tools.info/)
+
 Help make digital tools more inclusive and accessible.
+
 For more details check: [Project Details and Guidelines for Applicants](https://drive.google.com/file/d/1yb_oNnRQtqd56lI2_k8A26mf2n5p5M3Y/view)
 
 Apply now: [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSegX0nZrOt1Y6jozn-XDwWNDZtUexz5OsnzHW44fsXZdoQHyQ/viewform?pli=1)
+
 Questions? Email us at: voiceofvoyant@gmail.com
