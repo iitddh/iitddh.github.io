@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Voice of Voyant: Building Indian Language interface for Voyant Tools"
-date:   2025-05-31 11:00:00 +0530
+date:   2025-05-31 18:00:00 +0530
 categories: [project]
-tags: [volunteer] [translation] [crowdsourcing] [multilingual DH]
+tags: [multilingual DH]
 ---
 
 
