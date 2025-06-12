@@ -30,7 +30,7 @@ Certificates will be awarded by the [Voyant Consortium](https://voyant-tools.inf
 
 Help make digital tools more inclusive and accessible.
 
-For more details check: [Project Details and Guidelines for Applicants](https://drive.google.com/file/d/1yb_oNnRQtqd56lI2_k8A26mf2n5p5M3Y/view)
+For more details check: [Project Details and Guidelines for Applicants](https://docs.google.com/document/d/1cetAv7l3ZH-io0_hVQVy00fk_Ro8x-48_vSlpd2zBN0/edit?tab=t.0)
 
 Apply now: [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSdZQgcNxtKC3OMWt0Rx0P5-S9RkSqqFlmDIbBLIpwQzDNaPAw/formResponse)
 
