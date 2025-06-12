@@ -32,6 +32,6 @@ Help make digital tools more inclusive and accessible.
 
 For more details check: [Project Details and Guidelines for Applicants](https://drive.google.com/file/d/1yb_oNnRQtqd56lI2_k8A26mf2n5p5M3Y/view)
 
-Apply now: [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSegX0nZrOt1Y6jozn-XDwWNDZtUexz5OsnzHW44fsXZdoQHyQ/viewform?pli=1)
+Apply now: [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSdZQgcNxtKC3OMWt0Rx0P5-S9RkSqqFlmDIbBLIpwQzDNaPAw/formResponse)
 
 Questions? Email us at: voiceofvoyant@gmail.com
