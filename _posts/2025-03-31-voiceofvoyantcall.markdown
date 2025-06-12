@@ -9,7 +9,7 @@ tags: [multilingual DH]
 
 [Voyant Tools](https://voyant-tools.org/) is an open-source text analysis platform that analyses and visualises large text corpora for digital humanities projects. It allows users with no coding knowledge to produce a granular analysis of texts through multiple sophisticated techniques. The Voice of Voyant project seeks to create interfaces for Voyant Tools in multiple Indian languages. 
 
-Here is an opportunity to volunteer to donate your language knowledge towards deepening multilingual DH tools to Indian languages by devoting a few hours of work this summer. At present the project is looking to create Voyant skins in Kannada, Manipuri, Odia, Punjabi and Telugu [No longer accepting Assamese, Hindi, Kashmiri, Malayalam, Marathi, Mizo, and Tamil.]
+Here is an opportunity to volunteer to donate your language knowledge towards deepening multilingual DH tools to Indian languages by devoting a few hours of work this summer. At present the project is looking to create Voyant skins in Kannada, Kashmiri, Manipuri, Odia, Punjabi and Telugu [No longer accepting Assamese, Hindi, Malayalam, Marathi, Mizo, and Tamil.]
 
 # What You’ll Do:
 * Translate terms using a simple spreadsheet
