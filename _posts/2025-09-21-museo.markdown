@@ -16,7 +16,7 @@ Museo Camera is one of Southeast Asia’s largest centres devoted to the art, sc
 
 The museum’s beginnings were humble: it started in 2009 as the personal collection of photographer, historian, and archivist Aditya Arya. Over time this collection grew into a substantial permanent exhibition that includes rare cameras, lenses, darkroom equipment, photographic paper, early flash devices, and other ephemera from the 19th century onward.
 
-![Understanding Camera Obscura](https://iitddh.github.io/assets/images/museo3.jpg "Understanding Camera Obscura")
+![Understanding Camera Obscura](https://iitddh.github.io/assets/images/museo2.jpg "Understanding Camera Obscura")
 
 
 # Reflections from the Tour
@@ -26,6 +26,6 @@ The hands-on sense of metadata, exhibit design and cataloguing brought alive wha
 
 The interdiscursive textures - how the technical (lens, exposure, format) and representational (subject matter, framing, audience) interact - sparked deep conversations because students came from different disciplines. For them, it wasn’t just history of tech or history of art, but something at their intersection.
 
-![Insights into camera techniques](https://iitddh.github.io/assets/images/museo2.jpg "Insights into camera techniques")
+![Insights into camera techniques](https://iitddh.github.io/assets/images/museo3.jpg "Insights into camera techniques")
 
 Museo Camera, in thus providing both artefacts and context, serves as a powerful site for learning in the digital humanities - reminding us that culture and technique co-evolve, and that preserving heritage is not just about safeguarding objects but about maintaining memory, value and voice.
