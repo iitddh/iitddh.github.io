@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Culture meets Tech: A visit to Museo Camera"
+date:   2025-09-21 18:00:00 +0530
+categories: [Museums and Archives]
+tags: [DH in Practice]
+---
+
+
+On 21 September 2025, students from the undergraduate course Codex to Hypertext and the MA programme Culture, Society, Thought at IIT Delhi visited Museo Camera in Gurugram. The visit included those MA students registered for Basic Programming for Digital Humanities and Foundations in Digital Humanities. The tour took them through the long history of photography - its pioneers, inventors and the ingenious techniques and technologies behind its many forms. Along with this, the students saw how photography has documented social, political and cultural events, via physical artefacts, seminal photographs, vintage advertisements, cameras and photographic ephemera. For undergraduates, it offered insight into how technology and culture shape each other - with advanced tech eventually becoming obsolete. For MA students, it also exposed them to curation, metadata preparation and exhibit organisation.
+
+![IIT Delhi students visit Museo Camera](https://iitddh.github.io/assets/images/museo1.jpg "IIT Delhi students visit Museo Camera")
+
+# About Museo Camera
+Museo Camera is one of Southeast Asia’s largest centres devoted to the art, science, and history of photography. Spread over 18,000 sq ft in Gurugram, it operates through a public-private partnership between the India Photo Archive Foundation and the Municipal Corporation of Gurugram.
+
+The museum’s beginnings were humble: it started in 2009 as the personal collection of photographer, historian, and archivist Aditya Arya. Over time this collection grew into a substantial permanent exhibition that includes rare cameras, lenses, darkroom equipment, photographic paper, early flash devices, and other ephemera from the 19th century onward.
+
+![Understanding Camera Obscura](https://iitddh.github.io/assets/images/museo3.jpg "Understanding Camera Obscura")
+
+
+# Reflections from the Tour
+Seeing the timeline of cameras from camera obscura, dry plates, early box and large format cameras to modern digital varieties helped students realise how deeply technical innovation is bound up with cultural practices of image-making. What counts as “good” imagery, what’s preserved, how it is preserved, all reflect social priorities.
+
+The hands-on sense of metadata, exhibit design and cataloguing brought alive what students had encountered in the classroom in courses like Foundations in Digital Humanities. It reinforced that behind every photograph or artefact in a museum lies a chain of decisions: what to collect, how to describe, how to present.
+
+The interdiscursive textures - how the technical (lens, exposure, format) and representational (subject matter, framing, audience) interact - sparked deep conversations because students came from different disciplines. For them, it wasn’t just history of tech or history of art, but something at their intersection.
+
+![Insights into camera techniques](https://iitddh.github.io/assets/images/museo2.jpg "Insights into camera techniques")
+
+Museo Camera, in thus providing both artefacts and context, serves as a powerful site for learning in the digital humanities - reminding us that culture and technique co-evolve, and that preserving heritage is not just about safeguarding objects but about maintaining memory, value and voice.
