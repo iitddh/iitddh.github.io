@@ -29,3 +29,8 @@ The interdiscursive textures - how the technical (lens, exposure, format) and re
 ![Insights into camera techniques](https://iitddh.github.io/assets/images/museo3.jpg "Insights into camera techniques")
 
 Museo Camera, in thus providing both artefacts and context, serves as a powerful site for learning in the digital humanities - reminding us that culture and technique co-evolve, and that preserving heritage is not just about safeguarding objects but about maintaining memory, value and voice.
+
+# Student testimonies
+
+>"My trip to Museo Camera museum was very educational. As I walked through the galleries, I was amazed by how many different types of cameras there were and how each one showed a different point in the history of technology. The change from pinhole cameras to digital cameras made me realise that photography is more than just taking pictures, its a way to remember, record history, and express feelings. The visit made me appreciate how patient and creative early photographers had to be, which is something people don't think about much these days. Overall, it was an inspiring reminder of how important photography is to culture."<br>- Anurag Kumar, B.Tech, Chemical Engineering<br>
+{: .prompt-tip }
