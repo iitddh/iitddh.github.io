@@ -18,20 +18,21 @@ The Winter School will combine practical workshops with critical perspectives on
 
 ### Introduction to Spatial Humanities: 
 Semantic annotation of textual sources with Recogito; georeferencing and vectorization of historical maps using QGIS; creating and hosting webmaps with qgis2web and GitHub; working with OpenStreetMap, GeoNames and Wikidata  for India, urban culture mapping using smartphones, agentic coding with LLMs and spatial research.
-To be conducted by David Joseph Wrisley (NYU Abu Dhabi)
+* To be conducted by David Joseph Wrisley (NYU Abu Dhabi)
 
 ### Python and JupyterHub for DH: 
 Constructing and analysing text corpora; exploring patterns through visualization; introduction to classification and basic machine learning tasks; spatial humanities applications through named entity recognition; network analysis; web-based visualizations; critical reflections on computational approaches.
-To be conducted by Sudeep Narayan Banerjee (CSC, IIT Delhi)
+* To be conducted by Sudeep Narayan Banerjee (CSC, IIT Delhi)
 
 ### Spatial Data and GIS Methods: 
 Understanding vector and raster data models; working with geospatial datasets using QGIS; exposure to remote sensing imagery interpretation.
-To be conducted by Rajarshi Dasgupta (School of Public Policy, IIT Delhi)
+* To be conducted by Rajarshi Dasgupta (School of Public Policy, IIT Delhi)
 
-### Pre-Winter School Bootcamp: Online workshops (Nov–Dec 2024) introducing the basics of programming in Python and R—variables, data structures, conditional statements, loops, functions, regular expressions, and visualization. These sessions will ease participants into computational methods, culminating in hands-on tutorials during the Winter School.
+### Pre-Winter School Bootcamp: 
+Online workshops (Nov–Dec 2024) introducing the basics of programming in Python and R—variables, data structures, conditional statements, loops, functions, regular expressions, and visualization. These sessions will ease participants into computational methods, culminating in hands-on tutorials during the Winter School.
 To be conducted by Arjun Ghosh (HSS, IIT Delhi)
 Perspectives on Data Analysis in Textual Research: Critical lectures and discussions with leading scholars.
-Including Dr. Vinayak Dasgupta (Shiv Nadar University)
+* Including Dr. Vinayak Dasgupta (Shiv Nadar University)
 
 
 ## Faculty for the Winter School
