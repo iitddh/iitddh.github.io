@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digital Humanities Winter School 2026"
-date:   2024-10-25 08:25:36 +0530
+date:   2025-10-13 08:25:36 +0530
 categories: [winter school]
 tags: [winter school]
 ---
