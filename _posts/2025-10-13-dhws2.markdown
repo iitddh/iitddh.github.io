@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "Digital Humanities Winter School 2026"
+date:   2024-10-25 08:25:36 +0530
+categories: [winter school]
+tags: [winter school]
+---
+
+# Call for Applications
+## 2nd Digital Humanities Winter School (DHWS2)
+
+The Department of Humanities and Social Sciences at the Indian Institute of Technology Delhi invites applications for the 2nd Digital Humanities Winter School (DHWS2) to be held from 12 to 17 January 2026 at the IIT Delhi campus.
+Building on the success of the inaugural Winter School in February 2025 - which brought together a diverse cohort of scholars - this edition turns its focus to Spatial Humanities and Computational Approaches to Text and Data. DHWS2 will provide participants with conceptual foundations and hands-on training in cutting-edge digital tools, equipping them to ask new research questions in a rapidly digitising world.
+
+## Agenda for the DHWS2
+
+The Winter School will combine practical workshops with critical perspectives on data analysis in the humanities. This year’s curriculum will cover:
+
+### Introduction to Spatial Humanities: 
+Semantic annotation of textual sources with Recogito; georeferencing and vectorization of historical maps using QGIS; creating and hosting webmaps with qgis2web and GitHub; working with OpenStreetMap, GeoNames and Wikidata  for India, urban culture mapping using smartphones, agentic coding with LLMs and spatial research.
+To be conducted by David Joseph Wrisley (NYU Abu Dhabi)
+
+### Python and JupyterHub for DH: 
+Constructing and analysing text corpora; exploring patterns through visualization; introduction to classification and basic machine learning tasks; spatial humanities applications through named entity recognition; network analysis; web-based visualizations; critical reflections on computational approaches.
+To be conducted by Sudeep Narayan Banerjee (CSC, IIT Delhi)
+
+### Spatial Data and GIS Methods: 
+Understanding vector and raster data models; working with geospatial datasets using QGIS; exposure to remote sensing imagery interpretation.
+To be conducted by Rajarshi Dasgupta (School of Public Policy, IIT Delhi)
+
+### Pre-Winter School Bootcamp: Online workshops (Nov–Dec 2024) introducing the basics of programming in Python and R—variables, data structures, conditional statements, loops, functions, regular expressions, and visualization. These sessions will ease participants into computational methods, culminating in hands-on tutorials during the Winter School.
+To be conducted by Arjun Ghosh (HSS, IIT Delhi)
+Perspectives on Data Analysis in Textual Research: Critical lectures and discussions with leading scholars.
+Including Dr. Vinayak Dasgupta (Shiv Nadar University)
+
+
+## Faculty for the Winter School
+
+[David Joseph Wrisley](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/david-wrisley.html): Professor of Digital Humanities at New York University Abu Dhabi campus
+
+[Arjun Ghosh](https://www.linkedin.com/in/arjun-ghosh-39b8a018/): Professor at the Department of Humanities and Social Sciences at IIT Delhi.
+
+[Sudeep Narayan Banerjee](): System Architect, IIT Delhi.
+
+[Rajarshi Dasgupta](https://spp.iitd.ac.in/faculty-profile/17): Associate Professor, School of Public Policy, IIT Delhi.
+
+[Vinayak Dasgupta](https://snu.edu.in/faculty/vinayak-das-gupta/): Assistant Professor at the School of Humanities and Social Sciences at IIT Delhi.
+
+
+
+## Why IIT Delhi
+
+As one of India’s leading institutes in technology and interdisciplinary research, IIT Delhi provides a unique environment for digital humanities initiatives. The Winter School leverages expertise in AI, NLP, GIS, and machine learning while foregrounding humanistic inquiry.
+
+## Who can apply?
+
+The Winter School is designed for students and early-career scholars in the humanities and social sciences with little or no prior experience in programming. It is open to MA/MPhil/PhD students, early-career faculty, archivists, and librarians. Applicants should hold at least a Bachelor’s degree in a humanities or social science discipline. Prior coding experience is not required.
+This year’s edition particularly welcomes applicants whose work engages with texts, archives, photos or datasets that contain spatial or social information - such as references to street addresses, places, maps, travel accounts, migration narratives, community histories, or records of relationships and networks.
+
+## Technology requirements
+
+Participants should bring a laptop capable of running a current browser (Chrome, Firefox, Safari). Tutorials will use Google Colab, JupyterHub, and open-source GIS tools such as QGIS (Long Term Release).
+
+## Participation fees
+
+Students: INR 2000 (Two Thousand Rupees only)
+
+Faculty members, Post Doctoral Scholars and other professionals: INR 8000 (Six Thousand Rupees only)
+
+Fees include lunch, tea, and snacks during the Winter School. Participants must arrange their own travel and accommodation. Limited accommodation may be available at the Research Park at IIT Delhi - selected participants can opt for it on a payment basis.
+
+In the event that there are more applications than can be accommodated at the DHWS2 the faculty will shortlist a set of participants. Selected participants will be required to transfer the fees to an account at IIT Delhi within a week. If a participant does not transfer the requisite fees the seat will be offered to another applicant.
+
+## Sponsors
+The Digital Humanities Winter School 2026 is made possible through the generous support of our sponsors:
+[Title Sponsor: A leading IT MNC] () and [Co-sponsor: FUZI TECH Ltd.] (https://www.fuzitech.co.in/).
+Their partnership enables us to expand access to training in spatial and network approaches within the humanities and social sciences and the exploration of AI and ML techniques.
+
+## Travel bursaries
+Thanks to the generosity of our sponsors, a limited number of travel bursaries will be available for student participants. The number and amount of bursaries will depend on available funds. Applicants should indicate their interest in financial support in their application.
+
+## What you will receive?
+The Winter School will provide you:
+* Soft copies of the course material and program
+* Winter School kit
+* Participants who attend all lectures will be issued a Certificate of Completion
+* Lunch, tea and snacks for during the winter school
+* Necessary access to IIT Delhi’s digital infrastructure
+
+
+## Contact
+
+> Arjun Ghosh<br>Professor<br>Department of Humanities and Social Sciences<br>Indian Institute of Technology Delhi<br>Email: iitdelhidh@gmail.com
+{: .prompt-tip }
+
+
+## How to apply?
+
+Applications for the Winter School can be submitted using the [Online Application Form](https://docs.google.com/forms/d/e/1FAIpQLSffw4E2VAmvVW6Cvbqpe418ZIhusiuF2UqXPmz5BptSun_K-Q/viewform).
+
+Applicants would be required to submit:
+* A short bionote
+* A short statement on their interest in the Winter School
+* References to source material relevant to their research (e.g., texts, archives, maps, datasets, oral histories) along with a brief explanation of their importance and relevance for spatial or network approaches and their current state of digitization (viz. Image scans or Machine readable text etc.)
+* Applicants may describe sources, archival holdings, or other non-digital materials. They need not submit the actual texts or datasets. However, applicants should mention if they will have access to physical digitized copies of the text/ sources during the Winter School.
+
+
+Last date for applications is 7 November 2025.
+Selected participants will be notified by 20 November 2025.
+
+[Download the Winter School Poster](https://iitddh.github.io/assets/images/DHWS2 Poster.pdf)
+
