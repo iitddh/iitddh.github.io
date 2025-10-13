@@ -29,7 +29,7 @@ Understanding vector and raster data models; working with geospatial datasets us
 * To be conducted by Rajarshi Dasgupta (School of Public Policy, IIT Delhi)
 
 ### Pre-Winter School Bootcamp: 
-Online workshops (Nov–Dec 2024) introducing the basics of programming in Python and R—variables, data structures, conditional statements, loops, functions, regular expressions, and visualization. These sessions will ease participants into computational methods, culminating in hands-on tutorials during the Winter School.
+Online workshops (Nov–Dec 2025) introducing the basics of programming in Python and R—variables, data structures, conditional statements, loops, functions, regular expressions, and visualization. These sessions will ease participants into computational methods, culminating in hands-on tutorials during the Winter School.
 * To be conducted by Arjun Ghosh (HSS, IIT Delhi)
 
 ### Perspectives on Data Analysis in Textual Research: 
