@@ -22,7 +22,7 @@ Semantic annotation of textual sources with Recogito; georeferencing and vectori
 
 ### Python and JupyterHub for DH: 
 Constructing and analysing text corpora; exploring patterns through visualization; introduction to classification and basic machine learning tasks; spatial humanities applications through named entity recognition; network analysis; web-based visualizations; critical reflections on computational approaches.
-* To be conducted by Sudeep Narayan Banerjee (CSC, IIT Delhi)
+
 
 ### Spatial Data and GIS Methods: 
 Understanding vector and raster data models; working with geospatial datasets using QGIS; exposure to remote sensing imagery interpretation.
@@ -42,8 +42,6 @@ Critical lectures and discussions with leading scholars.
 [David Joseph Wrisley](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/david-wrisley.html): Professor of Digital Humanities at New York University Abu Dhabi campus
 
 [Arjun Ghosh](https://www.linkedin.com/in/arjun-ghosh-39b8a018/): Professor at the Department of Humanities and Social Sciences at IIT Delhi.
-
-Sudeep Narayan Banerjee: System Architect, IIT Delhi.
 
 [Rajarshi Dasgupta](https://spp.iitd.ac.in/faculty-profile/17): Associate Professor, School of Public Policy, IIT Delhi.
 
