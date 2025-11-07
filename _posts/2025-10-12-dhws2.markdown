@@ -74,7 +74,7 @@ In the event that there are more applications than can be accommodated at the DH
 
 ## Sponsors
 The Digital Humanities Winter School 2026 is made possible through the generous support of our sponsors:
-[Title Sponsor: Hewlett Packard Enterprise HPE and Savex Technologies] ().
+Title Sponsor: **Hewlett Packard Enterprise HPE and Savex Technologies**.
 
 Their partnership enables us to expand access to training in spatial and network approaches within the humanities and social sciences and the exploration of AI and ML techniques.
 
