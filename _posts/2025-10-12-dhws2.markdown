@@ -74,7 +74,7 @@ In the event that there are more applications than can be accommodated at the DH
 
 ## Sponsors
 The Digital Humanities Winter School 2026 is made possible through the generous support of our sponsors:
-[Title Sponsor: A leading IT MNC] ().
+[Title Sponsor: Hewlett Packard Enterprise (HPE) and Savex Technologies] ().
 Their partnership enables us to expand access to training in spatial and network approaches within the humanities and social sciences and the exploration of AI and ML techniques.
 
 ## Travel bursaries
@@ -106,7 +106,7 @@ Applicants would be required to submit:
 * Applicants may describe sources, archival holdings, or other non-digital materials. They need not submit the actual texts or datasets. However, applicants should mention if they will have access to physical digitized copies of the text/ sources during the Winter School.
 
 
-Last date for applications is 7 November 2025.
+Last date for applications is ~~7~~ 15 November 2025 (extended).
 Selected participants will be notified by 20 November 2025.
 
 [Download the Winter School Poster](https://iitddh.github.io/assets/images/DHWS2 Poster.pdf)
