@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mapping, Making and Machine Learning: DH Winter School 2026"
-date:   2025-03-17 11:00:00 +0530
+date:   2026-02-14 11:00:00 +0530
 categories: [winter school]
 tags: [winter school]
 ---
