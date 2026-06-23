@@ -17,7 +17,7 @@ Before the in-person sessions, participants completed an online bootcamp in Pyth
 # Spatial Analysis
 The in-person programme opened with sessions on spatial thinking in the humanities and spatial data structures. David Joseph Wrisley led the spatial humanities strand, which included close spatial reading in Recogito, georeferencing, web mapping with qgis2web, and a critical comparison of GeoNames India and OSM India. Rajarshi Dasgupta led the GIS strand, with QGIS basics, vector analysis, datum and georeferencing, and satellite imagery in real-world contexts.
 
-![Participants at the DH Winter School](https://iitddh.github.io/assets/images/dhws-group.jpg "Participants at the DH Winter School")
+![Participants at the DH Winter School](https://iitddh.github.io/assets/images/dhws2Group.jpeg "Participants at the DH Winter School")
 
 A public lecture by David Wrisley, added an important conceptual frame to the week. Titled “Not Only a Trend: Why Digital Humanities Matter in an Era of Intensifying Technological Change,” it argued that digital humanities is vital to humanistic critique in a time of rapid algorithmic change.
 
@@ -35,7 +35,7 @@ The week ended with participant presentations and a valedictory session. These f
 One of the most memorable collaborative activities was a cross-stitch map of India, in which participants marked the places they had travelled from to attend DHWS2. The result was both a visual record of the cohort’s geographic diversity and a material expression of the winter school’s spatial humanities theme.
 
 
-![Celebrating World Mother Language Day](https://iitddh.github.io/assets/images/dhws-banner.jpg "Celebrating World Mother Language Day")
+![Preparing a crossstitch map](https://iitddh.github.io/assets/images/dhws2map.jpeg "Participants stitched a map")
 
 DHWS2 built on the first winter school while expanding its reach and range. By combining an accessible bootcamp, focused modules, a public lecture, an excursion, and participant-led sharing, it strengthened the winter school as a space for experimentation, collaboration, and interdisciplinary learning.
 # Participant Feedback
