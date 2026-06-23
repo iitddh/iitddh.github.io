@@ -12,14 +12,14 @@ The Digital Humanities Winter School, a unique initiative by the Department of H
 Before the in-person sessions, participants completed an online bootcamp in Python and R. It covered variables, data structures, loops, functions, regular expressions, and visualisation. This preparatory stage helped participants begin the winter school with a shared foundation.
 
 
-
-
 # Spatial Analysis
 The in-person programme opened with sessions on spatial thinking in the humanities and spatial data structures. David Joseph Wrisley led the spatial humanities strand, which included close spatial reading in Recogito, georeferencing, web mapping with qgis2web, and a critical comparison of GeoNames India and OSM India. Rajarshi Dasgupta led the GIS strand, with QGIS basics, vector analysis, datum and georeferencing, and satellite imagery in real-world contexts.
 
 ![Participants at the DH Winter School](https://iitddh.github.io/assets/images/dhws2Group.jpeg "Participants at the DH Winter School")
 
 A public lecture by David Wrisley, added an important conceptual frame to the week. Titled “Not Only a Trend: Why Digital Humanities Matter in an Era of Intensifying Technological Change,” it argued that digital humanities is vital to humanistic critique in a time of rapid algorithmic change.
+
+![Public Lecture by David Joseph Wrisley](https://iitddh.github.io/assets/images/dhws2Lecture.jpeg "Public Lecture by David Joseph Wrisley")
 
 # Machine Learning
 Machine learning and network analysis formed another key part of the programme. Sudeep Narayan Banerjee’s sessions introduced these topics in a way that linked technical practice to research questions in the humanities. The winter school also included assignments that helped participants consolidate what they had learned.
@@ -29,9 +29,14 @@ Machine learning and network analysis formed another key part of the programme. 
 
 The programme also made room for learning outside the classroom. Participants visited the Humayun’s Tomb Museum, which extended the winter school’s focus on space, archives, and heritage into a public setting.
 
+![Visit to Humayun's Tomb Museum](https://iitddh.github.io/assets/images/dhws2Museum.jpeg "Visit to Humayun's Tomb Museum")
+
 
 # Critical Making
 The week ended with participant presentations and a valedictory session. These final presentations gave participants a chance to share ideas, reflect on the tools they had used, and connect their work to wider digital humanities questions.
+
+![Presentatons by Participants](https://iitddh.github.io/assets/images/dhws2Prez.jpeg "Presentations by Participants")
+
 One of the most memorable collaborative activities was a cross-stitch map of India, in which participants marked the places they had travelled from to attend DHWS2. The result was both a visual record of the cohort’s geographic diversity and a material expression of the winter school’s spatial humanities theme.
 
 
