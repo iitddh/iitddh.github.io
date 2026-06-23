@@ -46,20 +46,9 @@ DHWS2 built on the first winter school while expanding its reach and range. By c
 # Participant Feedback
 The impact of the DH Winter School is best captured through the voices of its participants:
 
-I thoroughly enjoyed the Online Python Bootcamp. As it was my first attempt at coding, I believe I have understood well and would be able to try them out myself... Much needed for humanities students.<br> 
-<em>Priya Bose</em>
+>"My trip to Museo Camera museum was very educational. As I walked through the galleries, I was amazed by how many different types of cameras there were and how each one showed a different point in the history of technology. The change from pinhole cameras to digital cameras made me realise that photography is more than just taking pictures, its a way to remember, record history, and express feelings. The visit made me appreciate how patient and creative early photographers had to be, which is something people don't think about much these days. Overall, it was an inspiring reminder of how important photography is to culture."<br>- Anurag Kumar, B.Tech, Chemical Engineering<br>
+{: .prompt-tip }
 
-the winter school it got me interested in DH at a much deeper level.... It opened multiple horizons for me which I am keen on exploring.<br>
-<em>Pritha Chakraborty</em>
 
-The Winter School introduced me to text mining, computational linguistics, expanding my understanding of how digital archives can be analyzed beyond preservation.<br>
-<em>Muaad Muhammed Ameen</em>
-
-I started with an idea about digital humanities as a way to analyse texts and was essentially looking for methods. Post the winter school, I have started looking at digital humanities as a necessary aspect of humanities studies in the post AI world.<br>
-<em>Tannu Sharma</em>
-
-I always assumed DH to be a set of tools to be used to aid our research. The workshop changed my limited perception of the domain. It made be realise the essential intervention humanities can and has to provide in machine and deep learning.<br>
-<em>Angarika Batsah</em>
-
-The design of the curriculum for the bootcamp was very fundamental in its approach so that anyone with zero knowledge in python programming can start learning it.... gave us the opportunity to learn what computational thinking is.<br>
-<em>Beda Prakash Dutta</em>
+>"The visit to the photography museum Museo Camera was an extremely edifying experience. While learning about the long history of photography, what stood out to me was the pressing urge to capture light and arrest reality, and to encapsulate the present into images that would live on for eternity. To that end, the history of photography points to an ingenious tradition of (personal, collective, and political) memory-making and its preservation, recording in itself the dazzling achievements and the disturbing excesses that humanity sought to record for posterity, making them available for its future generations. It is this forward-looking impulse underlying this art form, coupled with its creation of a shared universe through images, as expressed through the exhibits, that ultimately emerged as the focal point of my experience, and deepened my appreciation for the medium."<br>- Anwesha Samanta, MA Culture, Society, Thought<br>
+{: .prompt-tip }
