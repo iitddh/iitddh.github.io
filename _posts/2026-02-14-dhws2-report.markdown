@@ -35,7 +35,7 @@ The week ended with participant presentations and a valedictory session. These f
 One of the most memorable collaborative activities was a cross-stitch map of India, in which participants marked the places they had travelled from to attend DHWS2. The result was both a visual record of the cohort’s geographic diversity and a material expression of the winter school’s spatial humanities theme.
 
 
-![Preparing a crossstitch map](https://iitddh.github.io/assets/images/dhws2map.jpeg "Participants stitched a map")
+![Preparing a crossstitch map](https://iitddh.github.io/assets/images/dhws2map.jpg "Participants stitched a map")
 
 DHWS2 built on the first winter school while expanding its reach and range. By combining an accessible bootcamp, focused modules, a public lecture, an excursion, and participant-led sharing, it strengthened the winter school as a space for experimentation, collaboration, and interdisciplinary learning.
 # Participant Feedback
