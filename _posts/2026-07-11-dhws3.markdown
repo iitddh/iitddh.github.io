@@ -13,7 +13,7 @@ slideshow:
 
 ## 3rd Digital Humanities Winter School (DHWS3)
 
-**4–9 January 2027 | IIT Delhi**
+** 4–9 January 2027 | IIT Delhi **
 
 The Department of Humanities and Social Sciences at the Indian Institute of Technology Delhi invites applications for the 3rd Digital Humanities Winter School (DHWS3) to be held from 4-9 January 2027 at the IIT Delhi campus.
 
@@ -26,16 +26,16 @@ The Winter School will combine practical workshops with critical perspectives on
 - **Pre-Winter School Bootcamp:** Online workshops on Python and Ren’Py for interactive storytelling, covering core programming concepts and their use in branching narratives and visual novel design.  
   **Arjun Ghosh** (HSS, IIT Delhi)
 
-- **Narrative prototyping:** [fill and edit]  
+- **Narrative prototyping:**  
   **Akash Johry** (DoD, IIT Delhi)
 
-- **Electronic literature and Twine:** [fill and edit]  
+- **Electronic literature and Twine:** 
   **Shanmugapriya T.** (IIT-ISM Dhanbad)
 
-- **Electronic literature and Twine:** [fill and edit]  
+- **Electronic literature and Twine:** 
   **Samya Brata Roy** (GITAM, Hyderabad)
 
-- **Perspectives on Data Analysis in Textual Research:** [fill and edit]  
+- **Perspectives on Data Analysis in Textual Research:** 
   **Dr. Vinayak Dasgupta** (Shiv Nadar University)
 
 - **Narrative Annotation and Machine Learning:** Working with annotated narrative datasets to identify narrative elements and characteristics, and using machine learning to explore how story structure, character, sequence, and other narrative features can be recognised computationally.  
