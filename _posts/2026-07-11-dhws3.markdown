@@ -4,6 +4,11 @@ title:  "Digital Humanities Winter School 2027"
 date:   2026-07-11 08:25:36 +0530
 categories: [winter school]
 tags: [winter school]
+slideshow:
+  - image: /assets/img/photo1.jpg
+    caption: ""
+  - image: /assets/img/photo2.jpg
+    caption: ""
 ---
 
 ## 3rd Digital Humanities Winter School (DHWS3)
@@ -94,3 +99,4 @@ The Digital Humanities Winter School 2027 invites sponsors to join us in support
 
 [Download the sponsorship booklet](https://iitddh.github.io/assets/images/DHWS3booklet.pdf)
 
+{% raw %}{% include post-slideshow.html gallery-id="slideshow" %}{% endraw %}
