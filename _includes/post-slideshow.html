@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;div class="post-slideshow"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>{% for slide in page.slideshow %}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;figure style="margin-bottom: 1.5rem;"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;img src="{{ slide.image }}" alt="{{ slide.caption | escape }}"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>{% if slide.caption and slide.caption != "" %}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;figcaption&gt;{{ slide.caption }}&lt;/figcaption&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>{% endif %}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/figure&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>{% endfor %}</p>
+<p class="p1">&lt;/div&gt;</p>
+</body>
+</html>
