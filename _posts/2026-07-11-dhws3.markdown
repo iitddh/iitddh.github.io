@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Digital Humanities Winter School 2027"
+date:   2026-07-11 08:25:36 +0530
+categories: [winter school]
+tags: [winter school]
+---
+
+## 3rd Digital Humanities Winter School (DHWS3)
+
+**4–9 January 2027 | IIT Delhi**
+
+The Department of Humanities and Social Sciences at the Indian Institute of Technology Delhi invites applications for the 3rd Digital Humanities Winter School (DHWS3) to be held from 4-9 January 2027 at the IIT Delhi campus.
+
+Building on the success of the previous editions, DHWS3 turns its focus to Digital Storytelling, Electronic Literatures, and Game Studies. DHWS3 will provide participants with conceptual foundations and hands-on training in cutting-edge digital tools, equipping them to ask new research questions in a rapidly digitising world.
+
+## Agenda for DHWS3
+
+The Winter School will combine practical workshops with critical perspectives on digital storytelling and electronic literatures. This year’s curriculum will cover:
+
+- **Pre-Winter School Bootcamp:** Online workshops on Python and Ren’Py for interactive storytelling, covering core programming concepts and their use in branching narratives and visual novel design.  
+  **Arjun Ghosh** (HSS, IIT Delhi)
+
+- **Narrative prototyping:** [fill and edit]  
+  **Akash Johry** (DoD, IIT Delhi)
+
+- **Electronic literature and Twine:** [fill and edit]  
+  **Shanmugapriya T.** (IIT-ISM Dhanbad)
+
+- **Electronic literature and Twine:** [fill and edit]  
+  **Samya Brata Roy** (GITAM, Hyderabad)
+
+- **Perspectives on Data Analysis in Textual Research:** [fill and edit]  
+  **Dr. Vinayak Dasgupta** (Shiv Nadar University)
+
+- **Narrative Annotation and Machine Learning:** Working with annotated narrative datasets to identify narrative elements and characteristics, and using machine learning to explore how story structure, character, sequence, and other narrative features can be recognised computationally.  
+  **Sudeep Narayan Banerjee** (CSC, IIT Delhi)
+
+## Why IIT Delhi?
+
+IIT Delhi combines a strong interdisciplinary ethos with the presence of the Department of Design, creating a setting well suited to collaborative work across design, technology, and the humanities.
+
+## Who can apply?
+
+Graduates from any discipline are eligible to apply. Applications are especially welcome from writers, poets, artists, students, researchers, and other creative practitioners who want to explore digital storytelling, narrative forms, and creative expression.
+
+This edition is especially relevant for applicants whose work engages with stories, archives, oral histories, images, texts, or datasets that may be transformed into interactive or computationally informed narratives.
+
+## Technology requirements
+
+Participants should bring a laptop capable of running a current browser. Tutorials will make use of Google Colab, JupyterHub, Twine, Ren’Py, and open-source tools suited to digital storytelling and humanities research.
+
+## Participation fees
+
+- **Students:** INR 2500
+- **Faculty, postdoctoral scholars, and professionals:** INR 8000
+- **Sponsored applicants:** INR 25000 (limited slots)
+
+Fees include lunch, tea, and snacks during the Winter School. Participants must arrange their own travel and accommodation. Limited accommodation may be available at the Research Park at IIT Delhi; selected participants can opt for it on a payment basis.
+
+## Travel bursaries
+
+A limited number of travel bursaries will be available for student participants. The number and amount of bursaries will depend on available funds. Applicants should indicate their interest in financial support in their application.
+
+## What you will receive
+
+- Soft copies of course materials
+- Winter School kit
+- Participation/completion certificate, subject to full attendance
+- Necessary access to IIT Delhi’s digital infrastructure
+
+## How to apply
+
+Applications must be submitted through the **[Online Application Form]** *(link to be shared)*. Applicants should provide:
+
+- A short bionote
+- A brief statement of interest
+- Links to representative work samples
+
+## Tentative Schedule
+
+| Date | Activity |
+|------|----------|
+| 30 Jul 2026 | Call for applications |
+| 30 Aug 2026 | Deadline for applications |
+| 20 Sep 2026 | Announcement of selected applications |
+| 5 Oct 2026 | Closure of registrations |
+| 1 Oct - 15 Dec 2026 | Online bootcamp for Python and R |
+| 4-9 Jan 2027 | In-person DHWS at IIT Delhi |
+
+## Inviting Sponsors
+The Digital Humanities Winter School 2027 invites sponsors to join us in supporting a distinctive academic initiative that brings together humanities scholarship, digital practice, and creative expression. Your partnership will help make this training accessible to a diverse national cohort while offering your organisation meaningful visibility and association with an innovative, high-impact programme at IIT Delhi.
+
+
+[Download the sponsorship booklet](https://iitddh.github.io/assets/images/DHWS3booklet.pdf)
+

@@ -43,6 +43,9 @@ One of the most memorable collaborative activities was a cross-stitch map of Ind
 ![Preparing a crossstitch map](https://iitddh.github.io/assets/images/dhws2Map.jpg "Participants stitched a map")
 
 DHWS2 built on the first winter school while expanding its reach and range. By combining an accessible bootcamp, focused modules, a public lecture, an excursion, and participant-led sharing, it strengthened the winter school as a space for experimentation, collaboration, and interdisciplinary learning.
+
+The Digital Humanities Winter School 2026 was made possible through the generous support of our sponsors, Hewlett Packard Enterprise (HPE) and Savex Technologies. Their partnership enabled us to expand access to training in spatial and network approaches within the humanities and social sciences, while also introducing participants to emerging AI and ML techniques.
+
 # Participant Feedback
 The impact of the DH Winter School is best captured through the voices of its participants:
 
