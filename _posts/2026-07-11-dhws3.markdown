@@ -99,4 +99,4 @@ The Digital Humanities Winter School 2027 invites sponsors to join us in support
 
 [Download the sponsorship booklet](https://iitddh.github.io/assets/images/DHWS3booklet.pdf)
 
-{% raw %}{% include post-slideshow.html gallery-id="slideshow" %}{% endraw %}
+{% include post-slideshow.html gallery-id="slideshow" %}
