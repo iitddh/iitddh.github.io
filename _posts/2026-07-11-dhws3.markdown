@@ -76,7 +76,7 @@ A limited number of travel bursaries will be available for student participants.
 
 ## How to apply
 
-Applications must be submitted through the [Online Application Form] (https://docs.google.com/forms/d/e/1FAIpQLScX9RFJgL4-4oc2wFjzyRhzhiTyzwFQticBqrQmtYWlpgBCNg/viewform?usp=header). Applicants should provide:
+Applications must be submitted through the [Online Application Form](https://docs.google.com/forms/d/e/1FAIpQLScX9RFJgL4-4oc2wFjzyRhzhiTyzwFQticBqrQmtYWlpgBCNg/viewform?usp=header). Applicants should provide:
 
 - A short bionote
 - A brief statement of interest
